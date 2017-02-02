@@ -4,7 +4,7 @@ public class Spiral {
 
 		public static void main(String[] args) {
 			
-			Robot bob = new Robot("mini");
+			Robot bob = new Robot("vic");
 			
 bob.penDown();
 			
