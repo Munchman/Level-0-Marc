@@ -9,12 +9,15 @@ public class ChangeCalculator {
 
 			// Convert their answer to an int using Integer.parseInt()
 
-int i =Integer.parseInt(a);
+	int i =Integer.parseInt(a);
 			// Ask the user how many dimes they have, and convert their answer
-a=JOptionPane.showInputDialog("how many dimes do you have?");
-if (i >=10){
-	JOptionPane.showMessageDialog(null, "you have more than $1");
-}
+	a=JOptionPane.showInputDialog("how many dimes do you have?");
+			if (i >=10){
+				JOptionPane.showMessageDialog(null, "you have more than $1");
+			}
+			else {
+				JOptionPane.showMessageDialog(null, "You need more money");
+			}
 			// Ask the user how many quarters they have, and convert their answer
 
 			// Calculate how much money the user has and save it in a double variable 
