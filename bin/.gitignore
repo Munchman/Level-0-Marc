@@ -7,8 +7,10 @@
 /FlamingNinjaStar.class
 /Greeter.class
 /HappyPet.class
+/HighLowGame.class
 /KnockKnock.class
 /MadLibs.class
+/Magic8Ball.class
 /MorningZombie.class
 /NasaCountDown.class
 /RobotSquare.class
@@ -20,5 +22,4 @@
 /TEST.class
 /TortoiseColorChooser.class
 /YearsAlive.class
-/Magic8Ball.class
-/HighLowGame.class
+/FizzBuzz.class
