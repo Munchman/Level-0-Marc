@@ -12,6 +12,7 @@
 /KnockKnock.class
 /MadLibs.class
 /Magic8Ball.class
+/MakeCookies.class
 /MorningZombie.class
 /NasaCountDown.class
 /ObiedientRobot.class
@@ -27,4 +28,6 @@
 /TestScores.class
 /TortoiseColorChooser.class
 /YearsAlive.class
-/MakeCookies.class
+/SpudCounter.class
+/checkPointModulo.class
+/Code4Life.class
