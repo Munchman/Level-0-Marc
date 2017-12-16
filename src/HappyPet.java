@@ -5,8 +5,6 @@ public class HappyPet {
 	// 2. Create a happinessLevel variable to store the pet's happiness number.
 	// Initialize to zero.
 
-	
-
 	public static void main(String[] args) {
 		int exited = 0;
 		// 1. Ask the user what kind of pet they want to buy, and store in
@@ -23,7 +21,7 @@ public class HappyPet {
 				JOptionPane.INFORMATION_MESSAGE, null, new String[] { "Toys", "Cuddle", "Walk" }, null);
 
 		// 5. Use user input to call the appropriate method created in step 4.
-happienessLevel(task);
+		happienessLevel(task);
 		// 6. If you determine the happiness level is large enough, tell the
 		// user that he loves his pet and use break; to exit for loop.
 
@@ -43,7 +41,7 @@ happienessLevel(task);
 
 		}
 		if (task == 2) {
-			JOptionPane.showMessageDialog(null, "your pet does'nt like walks");
+			JOptionPane.showMessageDialog(null, "your pet doesn't like walks");
 		}
 	}
 }
